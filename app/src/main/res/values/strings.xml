@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">intents</string>
+    <string name="saludoTexto">Buenas tardes %s</string>
+</resources>
